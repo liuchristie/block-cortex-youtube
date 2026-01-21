@@ -1,17 +1,17 @@
 
 
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "cortex_2026"
   export: override_required
 }
 
 constant: GCP_PROJECT_ID {
-  value: "GCP Project ID"
+  value: "liuchristie-142-20250922213141"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "cortex_dv360_reporting"
   export: override_required
 }
 
